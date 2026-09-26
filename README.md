@@ -1,4 +1,3 @@
-<img width="1152" height="732" alt="simulacao" src="https://github.com/user-attachments/assets/f994841e-699c-410f-a3f9-0e37ed5216bb" />
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
 Projeto desenvolvido como Desafio de Projeto do bootcamp **"Reclame AQUI - Dados e IA na Prática"**, oferecido pela [Digital Innovation One (DIO)](https://www.dio.me/).
@@ -46,9 +45,11 @@ O usuário escolhe seu perfil em uma lista suspensa (`Conservador`, `Moderado` o
 
 ## 🖼️ Capturas de tela
 
-As imagens ilustram a planilha em uso (ver pasta [`/images`](./images)):
+As imagens abaixo ilustram a planilha em uso (ver pasta [`/images`](./images)):
 
-.images/alocacao-perfil.png
+<img width="1152" height="732" alt="simulacao" src="https://github.com/user-attachments/assets/22094845-c3f8-4d33-b16c-d9550960cc47" />
+
+<img width="1152" height="802" alt="alocacao-perfil" src="https://github.com/user-attachments/assets/98d9730e-9a5d-47d8-ba61-08991098cf90" />
 
 ## 🚀 Como usar
 
