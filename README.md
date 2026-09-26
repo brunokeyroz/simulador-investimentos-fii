@@ -1,3 +1,4 @@
+<img width="1152" height="732" alt="simulacao" src="https://github.com/user-attachments/assets/f994841e-699c-410f-a3f9-0e37ed5216bb" />
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
 Projeto desenvolvido como Desafio de Projeto do bootcamp **"Reclame AQUI - Dados e IA na Prática"**, oferecido pela [Digital Innovation One (DIO)](https://www.dio.me/).
