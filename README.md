@@ -46,7 +46,7 @@ O usuário escolhe seu perfil em uma lista suspensa (`Conservador`, `Moderado` o
 ## 🖼️ Capturas de tela
 
 As imagens ilustram a planilha em uso (ver pasta [`/images`](./images)):
-
+images/alocacao-perfil.png
 
 ## 🚀 Como usar
 
