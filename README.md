@@ -47,11 +47,6 @@ O usuário escolhe seu perfil em uma lista suspensa (`Conservador`, `Moderado` o
 
 As imagens abaixo ilustram a planilha em uso (ver pasta [`/images`](./images)):
 
-`![Configurações e simulação de investimento](./images/simulacao.png)`
-
-`![Alocação por perfil de investidor](./images/alocacao-perfil.png)`
-
-> Substitua os arquivos acima pelas capturas reais da sua planilha antes de publicar.
 
 ## 🚀 Como usar
 
